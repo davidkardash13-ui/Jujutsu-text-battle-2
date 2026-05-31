@@ -1,0 +1,11 @@
+{
+  "name": "Акира",
+  "coins": 300,
+  "collection": {
+    "Стражник додзё": 1
+  },
+  "battles_won": 0,
+  "cases_opened": 0,
+  "active": "Стражник додзё",
+  "redeemed_codes": []
+}
